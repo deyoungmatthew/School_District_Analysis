@@ -39,3 +39,6 @@ Thomas High School is in the medium sized bin, but no average scores or percenta
 
 #### **Scores by school type**
 Thomas High School is in the charter bin, but no average scores or percentages changes are a result of the removal of 9th grade scores.
+
+## **Summary**
+The four major changes in the District summary were the drops in Average math score, % Passing Math, % Pass Reading, and a larger drop in % Overall Passing.
