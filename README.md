@@ -12,10 +12,12 @@ There was a slight decrease in both Average Math and Average Scores for the Dist
 The only numbers affected here were Thomas High School's scores and passing percentages.  Here are the results:
 
 ### Thomas High School before replacing 9th grade reading and math scores with Nan:
-![Thomas Summary Before](https://user-images.githubusercontent.com/78942457/111912802-aaeb8080-8a41-11eb-86e7-66e802db6917.PNG)
+![Thomas Summary Before](https://user-images.githubusercontent.com/78942457/111914421-3cf68780-8a48-11eb-852b-61ae98b5cdb9.PNG)
+
 
 ### Thomas High School after replacing 9th grade reading and math scores with Nan:
-![Thomas Summary After](https://user-images.githubusercontent.com/78942457/111912863-e7b77780-8a41-11eb-8bd1-f0282a8532e8.PNG)
+![Thomas Summary After](https://user-images.githubusercontent.com/78942457/111914425-408a0e80-8a48-11eb-9725-14a18d9b3775.PNG)
+
 
 ### The variances are as follows: * Average Math Score: Decrease of .067
                               * Average Reading Score: Increase of .047
